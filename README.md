@@ -1,24 +1,5 @@
-# montyhall
+Monty Hall 
+Objetivo técnico: Praticar as habilidades aprendidas no curso de Vue da Udemy.
+Objetivo do projeto: Criar um jogo em que uma das pessoas tenta descobrir qual a porta premiada.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Observação: Jogo criado por meio de um dos módulos do curso Vue da Udemy.
